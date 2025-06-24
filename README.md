@@ -1,4 +1,4 @@
-# Fruit-Detection-And-Yield-Estimation-using-Yolo
+# Real-Time Fruit Detection and Yield Analysis with YOLOv5
 # Fruit Detection System using YOLOv5
 
 This project implements a real-time fruit detection system using YOLOv5 (You Only Look Once) object detection algorithm. The goal is to accurately identify and classify different types of fruits from images or video streams. The model was trained on a custom dataset of labeled fruit images.
